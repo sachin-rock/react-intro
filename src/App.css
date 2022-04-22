@@ -1,0 +1,21 @@
+.App {
+  margin-left: 3%;
+ }
+ 
+ .os{
+   font-size: 20px;
+   font-weight: 500;
+ }
+ 
+ 
+ .squarestyle{
+   list-style: square;
+   font-size: 20px;
+   font-weight: 500;
+ }
+ .circleblankstyle{
+   list-style: circle;
+   font-size: 20px;
+   font-weight: 500;
+ 
+ }
